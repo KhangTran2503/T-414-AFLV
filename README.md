@@ -21,3 +21,14 @@ The course (material) has been adopted (and adapted) by a few external sites, in
 - Universidad Mayor de San Simón, Bolivia
 
 Do you know of a site not listed here? I would be happy to hear about it.
+
+
+## Practice (KhangTD)
+
+- **11. Strings:**
+	- [] 1. [Bing It On](https://open.kattis.com/problems/bing)
+	- [x] 2. [Power Strings](https://open.kattis.com/problems/powerstrings)
+	- [ ] 3. [Burrows-Wheeler](https://open.kattis.com/problems/burrowswheeler)
+	- [ ] 4. [Dvaput](https://open.kattis.com/problems/dvaput)
+	- [ ] 5. [Repeated Substrings](https://open.kattis.com/problems/substrings)
+
